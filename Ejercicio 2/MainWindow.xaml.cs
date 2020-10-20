@@ -40,7 +40,6 @@ namespace Ejercicio_2
             {
                 MessageBox.Show("Se ha producido un error. Revise los comandos");
             }
-            
         }
 
         
